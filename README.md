@@ -62,6 +62,8 @@ while True:
 udpSocket.close()
 ```
 
-![屏幕快照 2018-03-07 下午3.12.58](/Users/dezhi/Desktop/屏幕快照 2018-03-07 下午3.12.58.png)
+![屏幕快照 2018-03-07 下午3.12.58](/Users/dezhi/Desktop/tmp/Sico2Sico_pythonSocket/屏幕快照 2018-03-07 下午3.12.58.png)
 
-![WechatIMG35 3](/Users/dezhi/Desktop/WechatIMG35 3.jpeg)
+
+
+![WechatIMG35 3](/Users/dezhi/Desktop/tmp/Sico2Sico_pythonSocket/WechatIMG35 3.jpeg)
